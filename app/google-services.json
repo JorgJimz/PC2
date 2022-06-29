@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "662654203756",
+    "project_id": "dsm-pc2",
+    "storage_bucket": "dsm-pc2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:662654203756:android:e1076f1bb06c78fa5a2549",
+        "android_client_info": {
+          "package_name": "com.dsm.pc2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "662654203756-inaecolcjsgtuqn31be4g6pctdi0meir.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWvENkdR8g2234u8sUJfkQHjUVT3qD6_w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "662654203756-inaecolcjsgtuqn31be4g6pctdi0meir.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

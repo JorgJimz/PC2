@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PC2</string>
+    <string name="regTitle">CREAR UNA CUENTA</string>
+    <string name="regButton">REGISTRAR CUENTA</string>
+    <string name="iniButton">INGRESAR</string>
+    <string name="iniTitle">INICIAR SESIÓN</string>
+</resources>
